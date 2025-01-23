@@ -1,2 +1,2 @@
 # DeepHFMap
-Upload the code and data here later.
+The code is being collated, and the code and data will be uploaded here later.

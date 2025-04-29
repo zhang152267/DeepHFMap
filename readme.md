@@ -1,9 +1,12 @@
 # DeepHFMap
 DeepHFMap is a deep learning method for predicting geothermal heat flow, and it maps heat flow with multiple geological features.
+
 The code is being collated, and the code and data will be uploaded here later.
 
 # Dependencies
+
 Python 3.10
+
 PyTorch = 2.41
 
 # Dataset

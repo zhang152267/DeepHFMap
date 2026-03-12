@@ -17,3 +17,5 @@ Geological Feature Data: The sources of geological feature data are shown in the
 
 ![image](https://github.com/user-attachments/assets/f171157c-eba9-439c-9187-e988ad8e1bbc)
 
+The related paper can be found at: [https://doi.org/10.1007/s12145-025-02055-w]
+
